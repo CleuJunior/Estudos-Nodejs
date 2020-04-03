@@ -1,5 +1,14 @@
 {
   "dependencies": {
     "bootstrap": "^4.4.1"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nodejs_estudos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/CleuJunior/Estudos-Nodejs.git",
+  "author": "CleuJunior <cleu.junior@gmail.com>",
+  "license": "MIT"
 }
